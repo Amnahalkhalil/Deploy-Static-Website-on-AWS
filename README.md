@@ -6,7 +6,7 @@ This repository contains the necessary files and instructions for deploying a st
 
 The cloud is a great choice for hosting static websites due to its scalability and cost-effectiveness. In this project, we will:
 
-1. `Create an S3 Bucket:` We'll set up an AWS S3 (Simple Storage Service) bucket to store our website files.
+1. **Create S3 Bucket:** We'll set up an AWS S3 (Simple Storage Service) bucket to store our website files.
 
 2. `Configure Bucket for Website Hosting:` We'll configure the S3 bucket to serve as a website host.
 
@@ -26,3 +26,5 @@ The cloud is a great choice for hosting static websites due to its scalability a
 - `/css`: Folder containing CSS files for the website.
 
 ## Getting Started
+1. Create an S3 bucket, and make sure to leave the 'Block all public access' option unchecked.
+2. 
