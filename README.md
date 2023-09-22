@@ -34,7 +34,7 @@ The cloud is a great choice for hosting static websites due to its scalability a
 4. Change the Bucket Policy according to your Bucket Policy file.
    ![Policy](./images/Policy.png)
 5. Make the bucket to host a website.
-   ![Hosting](./images/static website hosting.png) 
+   ![Hosting](./images/static%20website%20hosting.png) 
 6. Use the CloudFront dashboard to create a distribution.
    ![CloudFront](./images/CloudFront.png)
    ![Domain](./images/domain.png)
