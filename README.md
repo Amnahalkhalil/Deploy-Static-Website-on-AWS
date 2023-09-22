@@ -27,4 +27,14 @@ The cloud is a great choice for hosting static websites due to its scalability a
 
 ## Getting Started
 1. Create an S3 bucket, and make sure to leave the 'Block all public access' option unchecked.
-2. 
+   ![Create S3 bucket](./images/S3.png)
+3. Upload the files to the S3 bucket.
+![Create S3 bucket](./images/S3.png)
+4. Change the Bucket Policy according to your Bucket Policy file.
+   ![Create S3 bucket](./images/S3.png)
+5. Make the bucket to host a website using the bucket properties tab.
+   ![Create S3 bucket](./images/S3.png) 
+6. Use the CloudFront dashboard to create distribution and S3 bucket name use under “Origin Domain Name”.
+   ![Create S3 bucket](./images/S3.png)
+7. Open a web browser like Google Chrome and paste the copied endpoint URL and append “/index.html” on the end.
+   ![Create S3 bucket](./images/S3.png) 
