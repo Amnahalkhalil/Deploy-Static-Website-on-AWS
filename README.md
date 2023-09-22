@@ -30,7 +30,7 @@ The cloud is a great choice for hosting static websites due to its scalability a
    ![Create S3 bucket](./images/S3.png)
    ![Block all public access](./images/off%20block%20access.png)
 3. Upload the files to the S3 bucket.
-![Upload S3 bucket](./images/s3%20bucket%20-%20all%20files.png)
+![Upload S3 bucket](./images/s3%20bucket%20-%20all%20files%20.png)
 5. Change the Bucket Policy according to your Bucket Policy file.
    ![Policy](./images/Policy.png)
 6. Make the bucket to host a website.
