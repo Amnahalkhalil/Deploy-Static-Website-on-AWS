@@ -37,6 +37,6 @@ The cloud is a great choice for hosting static websites due to its scalability a
    ![Hosting](./images/static%20website%20hosting.png) 
 7. Use the CloudFront dashboard to create a distribution.
    ![CloudFront](./images/CloudFront.png)
-   ![Domain](./images/domain.png)
+   ![Domain](./images/Website%20Distribution.png)
 8. Open a web browser paste the copied endpoint URL and append “/index.html” on the end.
    ![Web app](./images/Web%20app.png) 
